@@ -100,5 +100,3 @@ The testbench follows an **object-oriented methodology** focused on achieving 10
 - **100% functional coverage**
 - **100% assertion coverage**
 
-
-*Add acknowledgements if needed*
